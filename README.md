@@ -27,9 +27,11 @@ json
   "location": "New York",
   "greeting": "Hello, <YourName>! The temperature is 11 degrees Celsius in New York."
 }
+
 Example Request
 http
 GET https://my-vercel-ck14v9q3w-maxsights-projects.vercel.app/api/hello?visitor_name=Mark
+
 Example Response
 json
 {
