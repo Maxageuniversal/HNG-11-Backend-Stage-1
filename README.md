@@ -1,5 +1,5 @@
-# HNG-11-Backend-Stage-1
-My Vercel Node.js API
+# HNG-11-Backend-Stage-1 My Vercel Node.js API
+
 This project is a simple Node.js server using Express that provides a greeting API endpoint. It is hosted on Vercel and demonstrates basic deployment and usage of a Node.js application on a serverless platform.
 
 Features
